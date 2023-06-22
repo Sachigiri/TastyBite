@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/priya/Downloads/1638831937_ZMenuSA_v21.12.06.1/TastyBite/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/priya/Downloads/1638831937_ZMenuSA_v21.12.06.1/TastyBite/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/priya/Downloads/1638831937_ZMenuSA_v21.12.06.1/TastyBite/app/src/main/res/layout/activity_order.xml" value="0.33" />
+        <entry key="..\:/Users/priya/Downloads/1638831937_ZMenuSA_v21.12.06.1/TastyBite/app/src/main/res/layout/order_sample.xml" value="0.4550898203592814" />
+        <entry key="..\:/Users/priya/Downloads/1638831937_ZMenuSA_v21.12.06.1/TastyBite/app/src/main/res/layout/sample_mainfood.xml" value="0.33" />
+        <entry key="..\:/Users/priya/Downloads/1638831937_ZMenuSA_v21.12.06.1/TastyBite/app/src/main/res/menu/xyz.xml" value="0.46875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
